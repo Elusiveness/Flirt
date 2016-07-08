@@ -15,7 +15,7 @@ pickupLines = [
 	"The human body has 206 bones in it's body, would you like to add another?",
 	"I dropped skittles down my pants, would you like to taste a rainbow?",
 	"You remind me of a bolt, now let me teach you how to screw.",
-	"Do we go to the same school?Because I swear we have chemistry together!"
+	"Do we go to the same school? Because I swear we have chemistry together!"
 ];
 
 cd = false;
